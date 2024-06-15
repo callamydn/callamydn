@@ -20,7 +20,7 @@
 
 ---
 
-<strong><p style='font-size:60px'> Estudando no Momento : </p>
+<strong><p style='font-size:17px'> Estudando no Momento : </p>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,7 +29,7 @@
 
 <strong> <p style='font-size:17px'> Em breve subiram para a aba de cima ⬆ </p><strong>
 ----
-<strong><p style='font-size:60px'> Estudarei no Futuro : </p>
+<strong><p style='font-size:17px'> Estudarei no Futuro : </p>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
