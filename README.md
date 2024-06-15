@@ -27,7 +27,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
-<strong> <p style='font-size:17px'> Em breve subiram para a aba de cima ⬆ </p><strong>
+<strong> <p style='font-size:7px'> Em breve subiram para a aba de cima ⬆ </p><strong>
 ----
 <strong><p style='font-size:17px'> Estudarei no Futuro : </p>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,7 +48,7 @@
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
-<strong> <p style='font-size:17px'> Em breve subiram para a aba de cima ⬆ </p><strong>
+<strong> <p style='font-size:7px'> Em breve subiram para a aba de cima ⬆ </p><strong>
 ---
 <strong><p style='font-size:45px'>Entre em contato comigo : </strong><strong>
 
