@@ -1,18 +1,20 @@
 # <p align="center"> **Olá meu nome é Anderson, mas pode me chamar  de <p align="center" style="color:red">[**`Callamydn!`**](https://github.com/callamydn)**</p>
 
-- <big> **Atualmente sou estudante de Análise e desenvolvimento de sistemas**
----
+<h2><strong> Atualmente sou estudante de Análise e desenvolvimento de sistemas</strong></h2>
 
-<strong><p style='font-size:50px'>É um prazer conhece-lo, conecte-se comigo :</p></strong>
+
+<h2><strong><p>É um prazer conhece-lo, conecte-se comigo :</strong>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f22618?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-de-lima-da-silva-2a8b621b9/)
 [![Facebook](https://img.shields.io/badge/Facebook-f22618?style=for-the-badge&logo=facebook&logoColor=)](https://www.facebook.com/anderson.delima.520/)
 [![Instagram](https://img.shields.io/badge/-Instagram-f22618?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson_dlds/)
+</p></h2>
+<h2><strong><p>Acompanhe meus projetos :</strong>
 
-<strong><p style='font-size:60px'>Acompanhe meus projetos :</p></strong>
 [![GitHub](https://img.shields.io/badge/GitHub-f22618?style=for-the-badge&logo=github&logoColor=white)](https://github.com/callamydn)
----
-<strong><p style='font-size:40px'> Meus conhecimentos Atualmente: </p>
+</p></h2>
+<h3><strong><p> Meus conhecimentos Atualmente: </strong></p></h3>
+
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
@@ -20,16 +22,21 @@
 
 ---
 
-<strong><p style='font-size:17px'> Estudando no Momento : </p>
+
+<h3><strong><p> Estudando no Momento : </p></strong></h3>
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
-<strong> <p style='font-size:7px'> Em breve subiram para a aba de cima ⬆ </p><strong>
-----
-<strong><p style='font-size:17px'> Estudarei no Futuro : </p>
+<h4><strong> <p> Em breve subiram para a aba de cima ⬆ </p></strong></h4>
+
+---
+
+<h3><strong><p> Estudarei no Futuro : </p></strong></h3>
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,8 +55,10 @@
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
-<strong> <p style='font-size:7px'> Em breve subiram para a aba de cima ⬆ </p><strong>
+<h4><strong> <p> Em breve subiram para a aba de cima ⬆ </p><strong></h4>
+
 ---
+
 <strong><p style='font-size:45px'>Entre em contato comigo : </strong><strong>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-f22618?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55018996982417)
