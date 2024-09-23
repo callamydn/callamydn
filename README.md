@@ -11,7 +11,7 @@
 </p></h2>
 <h2><strong><p>Acompanhe meus projetos :</strong>
 
-[![GitHub](https://img.shields.io/badge/GitHub-f22618?style=for-the-badge&logo=github&logoColor=white)](https://github.com/callamydn)
+[![GitHub](https://img.shields.io/badge/GitHub-f22618?style=for-the-badge&logo=github&logoColor=white)](https://github.com/callamydn?tab=repositories)
 </p></h2>
 <h3><strong><p> Meus conhecimentos Atualmente: </strong></p></h3>
 
