@@ -6,7 +6,7 @@
 </header>
 
 <body>
-<strong><p style='font-size:24px'> 💻 Desenvolvedor em transição para a área de tecnologia<br>  
+<strong><p style='font-size:40px'> 💻 Desenvolvedor em transição para a área de tecnologia<br>  
 🎓 Formado em Análise e Desenvolvimento de Sistemas <br> 
 ☕ Focado em Java e Python  <br> 
 📚 Atualmente estudando ADVPL e Spring Boot</strong></p>
@@ -35,20 +35,21 @@
 ---
 <strong><p style='font-size:20px'> Meus conhecimentos :</strong></p>
 
-
+<p>
 <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0" width="128"/>
-<img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=whit" width="100"/>
+<img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=whit" width="100"/></p>
 
 <br>
 
-
+<p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=green" width="128"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" width="100"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="120"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="120"/></p>
 
 <br>
+<p>
 <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown" width="168"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="90"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="90"/></p>
 
 ---
 
